@@ -97,7 +97,7 @@ const styles = StyleSheet.create({
         bottom: '15%',
         alignItems: 'center',
         justifyContent: 'center',
-        position: 'absolute', // Adicionando 'position' aqui
+        position: 'absolute', 
     },
     
     buttonabout:{
@@ -110,8 +110,8 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         position: 'absolute',
-        top: '55%', // Ajuste a posição vertical
-        marginTop: '-30px', // Margem negativa para mover um pouco para cima
+        top: '55%', 
+        marginTop: '-30px', 
 
     },
 

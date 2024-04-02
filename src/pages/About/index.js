@@ -46,12 +46,12 @@ const styles = StyleSheet.create({
         borderTopRightRadius: 25,
         paddingStart: '5%',
         paddingEnd: '5%',
-        paddingTop: 20 // Adicionando um espaço superior para a mensagem
+        paddingTop: 20 
     },
 
     text: {
         fontSize: 16,
-        lineHeight: 24, // Espaçamento entre linhas
+        lineHeight: 24, 
         color: '#000'
     }
 });
